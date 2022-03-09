@@ -31,7 +31,7 @@ Estou na metade do Pacman e o Gerenciador precisa ser refinado, mesmo ainda não
 
 ### Contato
 
-Entre em contato comigo pelo meu <a style="text-decoration: none;"href="https://www.linkedin.com/in/igor-balbino-dev/" target="_blank">LinkedIn</a>
+<p>Entre em contato comigo pelo meu <a style="text-decoration: none;"href="https://www.linkedin.com/in/igor-balbino-dev/" target="_blank">LinkedIn</a></p>
 
 <br/>
 
