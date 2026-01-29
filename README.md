@@ -1,51 +1,44 @@
-# Olá! Meu nome é Igor Balbino 😄
+# 👋 Olá! Eu sou o Igor Balbino
 
-## Desenvolvedor FullStack
+Desenvolvedor Full Stack, focado em soluções web robustas, integrações complexas e produtos digitais escaláveis.
 
-### Tecnologias ⚡
+## 💼 Sobre mim
+Sou desenvolvedor de software com 4+ anos de experiência comprovada, atuando no desenvolvimento de sistemas web, APIs, aplicações SaaS e integrações com serviços externos e terminais de pagamento.
 
-<div style="display: inline_block"><br>
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Android-079902?style=for-the-badge&logo=android&logoColor=green"/>
-  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div><br/><br/>
+## Atualmente, meu domínio técnico está concentrado em:
+- PHP (CodeIgniter e Laravel)
+- JavaScript / Node.js
+- Python
+- SQL (SQL Server e Oracle)
+- Integração de APIs REST
+- Ambientes Linux e noções de DevOps
 
+Já atuei em projetos críticos de sistemas legados, inclusive com deslocamento até o cliente para estabilização de versões em produção e migração de ambientes, como:
+- Sistema legado em PHP 7.2 + SQL Server (Madero)
+- Atualização e implantação de nova versão em PHP 7.2 / 7.4 + Oracle (Sapore)
+- Tenho facilidade para aprender novas tecnologias, entender sistemas complexos e atuar em ambientes dinâmicos, tanto em times quanto de forma autônoma.
 
-### Sobre Mim
+## 🌐 Projetos, marcas e plataformas
+Sou fundador e responsável pelas seguintes marcas e projetos:
 
-Sou desenvolvedor de software. Possuo 4 anos de experiência comprovada em diversas tecnologias, incluindo JavaScript, Java, Android, PHP, Pyhton, NodeJS, VueJS, REST APIs, SQL Server, Oracle, integração de terminais de cartão de crédito e projetos Saas rodando em Linux. Além disso, possuo inglês avançado, espanhol intermediário e japonês básico.
+<a href="https://creatioinc.com" target="_blank">CREATIO — Empresa de tecnologia focada em desenvolvimento de software e soluções digitais</a>
+<a href="https://fluentlyfocused.com" target="_blank">Fluently Focused — Plataforma voltada ao ensino de idiomas</a>
+<a href="https://denki.creatioinc.com" target="_blank">Denki — Serviços técnicos e soluções elétricas</a>
 
-Como profissional dedicado e comprometido, já viajei até o cliente para estabilizar versão com problema de sistema legado em PHP 7.2 com SQL Server (Madero) e subir versão nova de sistema local em PHP 7.2 e PHP 7.4 rodando com Oracle (Sapore). Tenho facilidade para aprender novas tecnologias e adaptar-me a ambientes de trabalho dinâmicos.
+Projetos em destaque:
 
-<br/><br/>
+<a href="https://hora-do-show.creatioinc.com" target="_blank">Hora do Show — Plataforma de eventos</a>
 
-### Contato
+## 🌍 Idiomas
+🇧🇷 Português: nativo
+🇺🇸 Inglês: avançado
+🇮🇹 Italiano: avançado
+🇪🇸 Espanhol: intermediário
+🇯🇵 Japonês: intermediário
 
-<p>Entre em contato comigo pelo meu <a style="text-decoration: none;"href="https://www.linkedin.com/in/igor-balbino-dev/" target="_blank">LinkedIn</a></p>
-<p>Minha conta no <a style="text-decoration: none;"href="https://www.kaggle.com/gamesoverx1" target="_blank">Kaggle</a></p>
-<p>Minha conta na <a style="text-decoration: none;"href="https://www.dio.me/users/igor_santo_comercial" target="_blank">DIO</a></p>
+## 📌 Modelo de trabalho
+✅ Aceito apenas vagas remotas
+🧠 Atuação presencial somente para consultoria técnica pontual
 
-<br/>
-
-
-
-<!--
-**igorbalbino/igorbalbino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+📱 WhatsApp: (31) 99818-1708
