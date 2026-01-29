@@ -21,9 +21,9 @@ Já atuei em projetos críticos de sistemas legados, inclusive com deslocamento 
 ## 🌐 Projetos, marcas e plataformas
 Sou fundador e responsável pelas seguintes marcas e projetos:
 
-<a href="https://creatioinc.com" target="_blank">CREATIO — Empresa de tecnologia focada em desenvolvimento de software e soluções digitais</a> <br/>
-<a href="https://fluentlyfocused.com" target="_blank">Fluently Focused — Plataforma voltada ao ensino de idiomas</a> <br/>
-<a href="https://denki.creatioinc.com" target="_blank">Denki — Serviços técnicos e soluções elétricas</a> <br/>
+<a href="https://creatioinc.com" target="_blank">CREATIO — Empresa de tecnologia focada em desenvolvimento de software e soluções digitais</a>(https://creatioinc.com) <br/>
+<a href="https://fluentlyfocused.com" target="_blank">Fluently Focused — Plataforma voltada ao ensino de idiomas</a>(https://fluentlyfocused.com) <br/>
+<a href="https://denki.creatioinc.com" target="_blank">Denki — Serviços técnicos e soluções elétricas</a>(https://denki.creatioinc.com) <br/>
 
 Projetos em destaque:
 
